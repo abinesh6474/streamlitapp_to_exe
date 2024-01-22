@@ -1,0 +1,12 @@
+LICENSE.txt
+README.txt
+setup.py
+iris_classifier_project/__init__.py
+iris_classifier_project/app.py
+iris_classifier_project/data.py
+iris_classifier_project/model.py
+iris_classifier_project.egg-info/PKG-INFO
+iris_classifier_project.egg-info/SOURCES.txt
+iris_classifier_project.egg-info/dependency_links.txt
+iris_classifier_project.egg-info/requires.txt
+iris_classifier_project.egg-info/top_level.txt

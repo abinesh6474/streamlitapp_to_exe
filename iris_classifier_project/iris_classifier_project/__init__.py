@@ -1,0 +1,1 @@
+from iris_classifier_project.app import main
